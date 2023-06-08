@@ -18,7 +18,7 @@ int findComplement(int num)
 
 int main()
 {
-    unsigned int N = 5;
+    int N = 5;
     cout << findComplement(N);
     return 0;
 }
